@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GPACalculator {
+class SGPACalculator {
     
     // Maps the letter grade to the exact point values you used
     public static int getGradePoint(String grade) {
